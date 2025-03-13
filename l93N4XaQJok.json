@@ -1,0 +1,110 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "UrLhX5NfxjvWrQE41RWrptB28lU",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "sipHZulVyliQ6MZbNQQB6Oae-28",
+            "id": "l93N4XaQJok",
+            "snippet": {
+                "publishedAt": "2024-09-21T21:32:23Z",
+                "channelId": "UCqAL_b-jUOTPjrTSNl2SNaQ",
+                "title": "I explain \"EventStorming\" with real examples",
+                "description": "How to conduct Event Storming and what is Event Storming? In this video, we're going to explore what the process of mapping Events, Commands, Policies, Aggregates, Queries etc. looks like.\n\n======\u26a1\u26a1\u26a1======\n\u2615 Buy me a coffee: https://www.buymeacoffee.com/softwaredeveloperdiaries\n\ud83d\ude4c Become my Patreon and get exclusive perks: https://patreon.com/softdevdiaries\n\ud83d\udcbc Follow me on LinkedIn and drop me a message if you'd like: https://www.linkedin.com/in/gadirovgs/\n\ud83d\udcbb Also, let's connect on GitHub: https://github.com/gusgad\n\n\ud83d\udcda Resources:\nFor info in this great article: https://medium.com/building-inventa/how-we-used-event-storming-meetings-for-enabling-software-domain-driven-design-401e5d708eb\nMy video on Domain-Driven Design: https://youtu.be/o-ym035R1eY\n\nAnd don't forget to subscribe for more videos like this \ud83d\ude0a",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l93N4XaQJok/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l93N4XaQJok/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l93N4XaQJok/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/l93N4XaQJok/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/l93N4XaQJok/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Software Developer Diaries",
+                "tags": [
+                    "software development",
+                    "software developer",
+                    "programming",
+                    "software engineering",
+                    "javascript",
+                    "web development",
+                    "coding",
+                    "domain driven design",
+                    "ddd",
+                    "event storming",
+                    "ddd entity",
+                    "ddd strategic design"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "I explain \"EventStorming\" with real examples",
+                    "description": "How to conduct Event Storming and what is Event Storming? In this video, we're going to explore what the process of mapping Events, Commands, Policies, Aggregates, Queries etc. looks like.\n\n======\u26a1\u26a1\u26a1======\n\u2615 Buy me a coffee: https://www.buymeacoffee.com/softwaredeveloperdiaries\n\ud83d\ude4c Become my Patreon and get exclusive perks: https://patreon.com/softdevdiaries\n\ud83d\udcbc Follow me on LinkedIn and drop me a message if you'd like: https://www.linkedin.com/in/gadirovgs/\n\ud83d\udcbb Also, let's connect on GitHub: https://github.com/gusgad\n\n\ud83d\udcda Resources:\nFor info in this great article: https://medium.com/building-inventa/how-we-used-event-storming-meetings-for-enabling-software-domain-driven-design-401e5d708eb\nMy video on Domain-Driven Design: https://youtu.be/o-ym035R1eY\n\nAnd don't forget to subscribe for more videos like this \ud83d\ude0a"
+                },
+                "defaultAudioLanguage": "en"
+            },
+            "contentDetails": {
+                "duration": "PT13M23S",
+                "dimension": "2d",
+                "definition": "hd",
+                "caption": "false",
+                "licensedContent": true,
+                "contentRating": {},
+                "projection": "rectangular"
+            },
+            "status": {
+                "uploadStatus": "processed",
+                "privacyStatus": "public",
+                "license": "youtube",
+                "embeddable": true,
+                "publicStatsViewable": true,
+                "madeForKids": false
+            },
+            "statistics": {
+                "viewCount": "6706",
+                "likeCount": "214",
+                "favoriteCount": "0",
+                "commentCount": "10"
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/l93N4XaQJok\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            },
+            "topicDetails": {
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Knowledge",
+                    "https://en.wikipedia.org/wiki/Technology"
+                ]
+            },
+            "recordingDetails": {},
+            "localizations": {
+                "en": {
+                    "title": "I explain \"EventStorming\" with real examples",
+                    "description": "How to conduct Event Storming and what is Event Storming? In this video, we're going to explore what the process of mapping Events, Commands, Policies, Aggregates, Queries etc. looks like.\n\n======\u26a1\u26a1\u26a1======\n\u2615 Buy me a coffee: https://www.buymeacoffee.com/softwaredeveloperdiaries\n\ud83d\ude4c Become my Patreon and get exclusive perks: https://patreon.com/softdevdiaries\n\ud83d\udcbc Follow me on LinkedIn and drop me a message if you'd like: https://www.linkedin.com/in/gadirovgs/\n\ud83d\udcbb Also, let's connect on GitHub: https://github.com/gusgad\n\n\ud83d\udcda Resources:\nFor info in this great article: https://medium.com/building-inventa/how-we-used-event-storming-meetings-for-enabling-software-domain-driven-design-401e5d708eb\nMy video on Domain-Driven Design: https://youtu.be/o-ym035R1eY\n\nAnd don't forget to subscribe for more videos like this \ud83d\ude0a"
+                }
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    }
+}
