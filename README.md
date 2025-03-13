@@ -1,4 +1,4 @@
-# youtube
+# TubeCtrl
 
 ## Overview
 
@@ -14,7 +14,7 @@ The library is modelled after [Google's own documentation](https://developers.go
 ## Installation
 
 ```sh
-pip install oryks-youtube
+pip install tubectrl
 ```
 
 ## Get started
@@ -30,7 +30,7 @@ To get a particular video using the videos' id:
 1. Create an instance of the YouTube API passing in the path to the downloaded client secret file:
 
 ```sh
-from youtube import YouTube
+from tubectrl import YouTube
 
 client_secrets_file = '/home/lyle/Downloads/secrets.json'
 youtube = YouTube(client_secrets_file)
