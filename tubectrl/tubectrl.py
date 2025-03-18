@@ -3,9 +3,9 @@ from pydantic import BaseModel
 from typing import Any, Optional
 from .exceptions import MissingClientSecretsFile, InvalidSecretsFileError
 from pathlib import Path
-from gverify import InvalidSecretsFileException
 from .models import Video
 from .resources import YouTubeVideoResource
+from gverify.exceptions import InvalidSecretsFileException
 
 
 class YouTube(BaseModel):
@@ -61,6 +61,7 @@ class YouTube(BaseModel):
             api_version=api_version,
             credentials_dir=credentials_dir,
         )
+        self.youtube_client = oauth.authenticate_google_server()
         try:
             self.youtube_client = oauth.authenticate_google_server()
         except InvalidSecretsFileException as e:
