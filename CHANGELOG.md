@@ -1,3 +1,9 @@
+## v0.1.1 (2025-03-18)
+
+### Fix
+
+- update the invalidsecretfile location.
+
 ## v0.1.0 (2025-03-18)
 
 ### Feat
