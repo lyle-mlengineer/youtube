@@ -23,7 +23,7 @@ key_words = [
 ]
 
 install_requires = [
-    'gverify==0.1.1',
+    'gverify==0.2.0',
     'pydantic',
     'pydantic-settings'
 ]
