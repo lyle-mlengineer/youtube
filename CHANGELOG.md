@@ -1,3 +1,9 @@
+## v0.2.0 (2025-03-20)
+
+### Feat
+
+- authenticates fro credentials.
+
 ## v0.1.2 (2025-03-18)
 
 ### Fix
