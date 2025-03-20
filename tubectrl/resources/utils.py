@@ -1,5 +1,6 @@
-from ..schemas import Part, Filter, OptionalParameters, YouTubeRequest
 from typing import Any
+
+from ..schemas import Filter, OptionalParameters, Part, YouTubeRequest
 
 
 def generate_part(part: Part) -> str:

@@ -1,17 +1,19 @@
+from typing import Optional
+
 from pydantic import BaseModel, Field
-from .snippet import Snippet
-from .status import Status
-from .statistics import Statistics
-from .paid_product_placement_details import PaidProductPlacementDetails
-from .player import Player
-from .topic_details import TopicDetails
-from .recording_details import RecordingDetails
+
 from .file_details import FileDetails
-from .processing_details import ProcessingDetails
-from .suggestions import Suggestions
 from .livestreaming_details import LiveStreamingDetails
 from .localizations import Localizations
-from typing import Optional
+from .paid_product_placement_details import PaidProductPlacementDetails
+from .player import Player
+from .processing_details import ProcessingDetails
+from .recording_details import RecordingDetails
+from .snippet import Snippet
+from .statistics import Statistics
+from .status import Status
+from .suggestions import Suggestions
+from .topic_details import TopicDetails
 
 
 class Video(BaseModel):

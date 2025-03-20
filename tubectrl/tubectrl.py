@@ -1,11 +1,14 @@
-from gverify import GoogleOAuth, YouTubeScopes
-from pydantic import BaseModel
-from typing import Any, Optional
-from .exceptions import MissingClientSecretsFile, InvalidSecretsFileError
 from pathlib import Path
+from typing import Any, Optional
+
+from google.oauth2.credentials import Credentials
+from gverify import GoogleOAuth, YouTubeScopes
+from gverify.exceptions import InvalidSecretsFileException
+from pydantic import BaseModel
+
+from .exceptions import InvalidSecretsFileError, MissingClientSecretsFile
 from .models import Video
 from .resources import YouTubeVideoResource
-from gverify.exceptions import InvalidSecretsFileException
 
 
 class YouTube(BaseModel):
@@ -66,6 +69,25 @@ class YouTube(BaseModel):
             self.youtube_client = oauth.authenticate_google_server()
         except InvalidSecretsFileException as e:
             raise InvalidSecretsFileError(e)
+
+    def authenticate_from_credentials(self, credentials_path: str) -> None:
+        api_service_name: str = "youtube"
+        api_version: str = "v3"
+        credentials_dir: str = ".youtube"
+        scopes: list[str] = [
+            YouTubeScopes.youtube.value,
+            YouTubeScopes.youtube_force_ssl.value,
+            YouTubeScopes.youtube_upload.value,
+        ]
+        oauth: GoogleOAuth = GoogleOAuth(
+            secrets_file=self.client_secret_file,
+            scopes=scopes,
+            api_service_name=api_service_name,
+            api_version=api_version,
+            credentials_dir=credentials_dir,
+        )
+        credentials: Credentials = oauth.load_credentials(credentials_path)
+        self.youtube_client = oauth.authenticate_from_credentials(credentials)
 
     def find_video_by_id(self, video_id: str) -> Video:
         """Find a single video by providing the video's id.

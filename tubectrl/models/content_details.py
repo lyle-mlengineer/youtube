@@ -1,7 +1,9 @@
-from pydantic import BaseModel
 from typing import Literal
-from .region_restriction import RegionRestriction
+
+from pydantic import BaseModel
+
 from .content_rating import ContentRating
+from .region_restriction import RegionRestriction
 from .status import Status
 
 

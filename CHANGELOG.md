@@ -1,3 +1,9 @@
+## v0.1.2 (2025-03-18)
+
+### Fix
+
+- updates gverify version.
+
 ## v0.1.1 (2025-03-18)
 
 ### Fix
