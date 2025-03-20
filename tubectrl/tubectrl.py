@@ -80,7 +80,6 @@ class YouTube(BaseModel):
             YouTubeScopes.youtube_upload.value,
         ]
         oauth: GoogleOAuth = GoogleOAuth(
-            secrets_file=self.client_secret_file,
             scopes=scopes,
             api_service_name=api_service_name,
             api_version=api_version,
