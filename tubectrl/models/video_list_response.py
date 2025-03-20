@@ -1,7 +1,8 @@
-from pydantic import BaseModel, Field
-from .page_info import PageInfo
 from typing import Optional
 
+from pydantic import BaseModel, Field
+
+from .page_info import PageInfo
 from .video import Video
 
 

@@ -1,9 +1,9 @@
 from typing import Any
-from ...models import Video
-from ...schemas import VideoFilter, VideoOptionalParameters, VideoPart
-from ...schemas import YouTubeRequest
-from ..utils import create_request_dict
+
 from ...exceptions import VideoNotFoundException
+from ...models import Video
+from ...schemas import VideoFilter, VideoOptionalParameters, VideoPart, YouTubeRequest
+from ..utils import create_request_dict
 from .parsers import parse_video, parse_video_list
 
 

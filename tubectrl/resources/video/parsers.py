@@ -1,21 +1,22 @@
+from typing import Any
+
 from ...models import (
+    FileDetails,
+    LiveStreamingDetails,
+    Localizations,
+    Localized,
+    PaidProductPlacementDetails,
+    Player,
+    ProcessingDetails,
+    RecordingDetails,
     Snippet,
     Statistics,
     Status,
-    PaidProductPlacementDetails,
-    Player,
-    TopicDetails,
-    RecordingDetails,
-    FileDetails,
-    ProcessingDetails,
     Suggestions,
-    LiveStreamingDetails,
-    Localizations,
-    Video,
     Thumbnail,
-    Localized,
+    TopicDetails,
+    Video,
 )
-from typing import Any
 
 
 def parse_thumbnail(resolution: str, details: dict) -> Thumbnail:

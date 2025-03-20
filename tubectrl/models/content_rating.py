@@ -71,3 +71,4 @@ class ContentRating(BaseModel):
     # smsa: str = ''
     # tvpg: str = ''
     # yt: str = ''
+    pass
