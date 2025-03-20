@@ -1,3 +1,9 @@
+## v0.2.2 (2025-03-20)
+
+### Fix
+
+- updates the credentails authentication.
+
 ## v0.2.1 (2025-03-20)
 
 ### Fix
