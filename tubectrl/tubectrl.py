@@ -8,7 +8,7 @@ from pydantic import BaseModel
 
 from .exceptions import InvalidSecretsFileError, MissingClientSecretsFile
 from .models import Video
-from .resources import YouTubePlaylistResource, YouTubeVideoResource
+from .resources import YouTubePlaylistItemResource, YouTubePlaylistResource, YouTubeVideoResource
 
 
 class YouTube(BaseModel):
@@ -137,4 +137,15 @@ class YouTube(BaseModel):
         )
         return playlist.get_channel_playlists_iterator(
             max_results=max_results, channel_id=channel_id
+        )
+
+    def get_playlist_items_iterator(
+        self, playlist_id: str, max_results: int = 25
+    ) -> Iterator:
+        """Get an iterator for iterating through videos in a playlist."""
+        playlist_item: YouTubePlaylistItemResource = YouTubePlaylistItemResource(
+            youtube_client=self.youtube_client
+        )
+        return playlist_item.get_playlist_items_iterator(
+            max_results=max_results, playlist_id=playlist_id
         )

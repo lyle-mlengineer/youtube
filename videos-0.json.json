@@ -1,0 +1,226 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "XL6af9dictiP6PXQSTuanDmvAcM",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "LSsdIPhl4K2h5Pehtu4B02JSl9Q",
+            "id": "UExLMGI0ZTA1TG56YkxRMzBlSlJFVkg4S3JHeGZDR1NDdy41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2025-01-31T23:46:02Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "Build a 1-person robotics edu-business 4: set up your online headquarters",
+                "description": "In this episode, we\u2019re building something critical for your online teaching business\u2014your online headquarters. \nYour online headquarters is more than just a website; it\u2019s the central hub where you\u2019ll connect with your audience. Also, and most important, you will be building your mailing list.\n\nVideo produced by The Construct Robotics Institute: https://theconstruct.ai\n\nCheck all our robotics teachings, specially the Robotics Developer Masterclass if you want to be working on robotics in 6 months: http://robotisdeveloper.ai\n\n--\n#ROS #Robot #ROStutorials",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yFgNg_iKhVI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yFgNg_iKhVI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yFgNg_iKhVI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yFgNg_iKhVI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yFgNg_iKhVI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "playlistId": "PLK0b4e05LnzbLQ30eJREVH8KrGxfCGSCw",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yFgNg_iKhVI"
+                },
+                "videoOwnerChannelTitle": "The Construct Robotics Institute",
+                "videoOwnerChannelId": "UCt6Lag-vv25fTX3e11mVY1Q"
+            },
+            "contentDetails": {
+                "videoId": "yFgNg_iKhVI",
+                "videoPublishedAt": "2025-01-31T23:47:28Z"
+            },
+            "status": {
+                "privacyStatus": "public"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "dQMkfQA6YeiRHd_Zulqd73jaPnA",
+            "id": "UExLMGI0ZTA1TG56YkxRMzBlSlJFVkg4S3JHeGZDR1NDdy4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2025-01-28T21:53:40Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "Build a 1-person robotics edu-business 3: start receiving payments by delivering the lessons",
+                "description": "In order to allow the students to see your videos, you have to upload them to a place where the students can watch the videos and follow your course. \n\nFor instance, you need to have:\n\n* A place to stream the videos in order and keeping track of the students progress\n* A Forum to answer the students questions\n* A place where to collect the payments of your students\n* As much promotion as possible\n\nI will teach you how to do all that with an existing platform that will take care of all that for you (after taking a small commission from all your sales). That is the path that most of the educators take because then they can forget about all the management of the platform and can concentrate on building their courses, answering the questions and collect the money.\n\nVideo produced by The Construct Robotics Institute: https://theconstruct.ai\n\nCheck all our robotics teachings, specially the Robotics Developer Masterclass if you want to be working on robotics in 6 months: http://robotisdeveloper.ai\n\n--\n#ROS #Robot #ROStutorials",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N4DCA_XId6o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N4DCA_XId6o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N4DCA_XId6o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/N4DCA_XId6o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/N4DCA_XId6o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "playlistId": "PLK0b4e05LnzbLQ30eJREVH8KrGxfCGSCw",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "N4DCA_XId6o"
+                },
+                "videoOwnerChannelTitle": "The Construct Robotics Institute",
+                "videoOwnerChannelId": "UCt6Lag-vv25fTX3e11mVY1Q"
+            },
+            "contentDetails": {
+                "videoId": "N4DCA_XId6o",
+                "videoPublishedAt": "2025-01-28T21:54:12Z"
+            },
+            "status": {
+                "privacyStatus": "public"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KQAZL46qMHokQahbHVGKsxtQcfs",
+            "id": "UExLMGI0ZTA1TG56YkxRMzBlSlJFVkg4S3JHeGZDR1NDdy4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2025-01-24T22:36:59Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "Build a 1-person robotics edu-business: create the video lessons",
+                "description": "In this episode, we\u2019re diving into the most important step of building your robotics education business: creating the educational material.\nThis is where the magic happens. Your video tutorials will teach the subject you\u2019ve chosen and form the foundation of the course you\u2019ll sell. \n\nProduced by The Construct Robotics Institute: www.theconstruct.ai\n\nRelated courses & tutorials:\n*\n*\n\n--\n#ROS #Robot #ROStutorials",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rXEaHWefbbc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rXEaHWefbbc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rXEaHWefbbc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rXEaHWefbbc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rXEaHWefbbc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "playlistId": "PLK0b4e05LnzbLQ30eJREVH8KrGxfCGSCw",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rXEaHWefbbc"
+                },
+                "videoOwnerChannelTitle": "The Construct Robotics Institute",
+                "videoOwnerChannelId": "UCt6Lag-vv25fTX3e11mVY1Q"
+            },
+            "contentDetails": {
+                "videoId": "rXEaHWefbbc",
+                "videoPublishedAt": "2025-01-26T17:00:55Z"
+            },
+            "status": {
+                "privacyStatus": "public"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lvUvnBE-M-6WGPMgB5TK4Q0iQUs",
+            "id": "UExLMGI0ZTA1TG56YkxRMzBlSlJFVkg4S3JHeGZDR1NDdy41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2025-01-24T17:26:21Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "How to build a 1-person robotics edu business in 2025",
+                "description": "Maybe you\u2019ve been considering creating your own one-person business in robotics. A business where you\u2019re your own boss\u2014no rigid schedules, no office politics, and the freedom to work from anywhere in the world.\n\nThis business will give you the freedom to live wherever you want. No more commuting, no more office cubicles. Plus, it keeps you at the cutting edge of robotics knowledge (because you need it in order to deliver the courses).\n\nIn this series, I\u2019ll guide you step-by-step through:\n* Creating engaging educational content.\n* Delivering it to your audience.\n* Attracting students who are ready to pay for your expertise.\n* Managing payments and collecting the students\u2019 fees\n* And promoting your academy to grow your reach.\n\nI\u2019m going to teach you how to do it, which tools to use, which material to buy, which software to use\u2026 everything you need step-by-step.\n\nProduced by The Construct Robotics Institute: https://www.theconstruct.ai\n\n\nRelated courses & tutorials:\n*\n*\n\n--\n#ROS #Robot #ROStutorials",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eV1A_c2i6W8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eV1A_c2i6W8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eV1A_c2i6W8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eV1A_c2i6W8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eV1A_c2i6W8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "playlistId": "PLK0b4e05LnzbLQ30eJREVH8KrGxfCGSCw",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eV1A_c2i6W8"
+                },
+                "videoOwnerChannelTitle": "The Construct Robotics Institute",
+                "videoOwnerChannelId": "UCt6Lag-vv25fTX3e11mVY1Q"
+            },
+            "contentDetails": {
+                "videoId": "eV1A_c2i6W8",
+                "videoPublishedAt": "2025-01-25T17:00:50Z"
+            },
+            "status": {
+                "privacyStatus": "public"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 4,
+        "resultsPerPage": 25
+    }
+}
