@@ -1,3 +1,9 @@
+## v0.3.0 (2025-03-21)
+
+### Feat
+
+- parses youtube channel playlists.
+
 ## v0.2.3 (2025-03-20)
 
 ### Fix

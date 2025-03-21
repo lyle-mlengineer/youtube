@@ -35,8 +35,21 @@ video_id: str = 'l93N4XaQJok'
 #     save_resource(playlist, f"playlists-{count}.json")
 #     print(playlist)
 #     count += 1
-iterator: Iterator = youtube.get_channel_playlists_iterator(
-    channel_id="UCkfx67Y3VeQwsCpKaguGs3g"
+# iterator: Iterator = youtube.get_channel_playlists_iterator(
+#     channel_id="UCkfx67Y3VeQwsCpKaguGs3g"
+# )
+# for playlist in iterator:
+#     print(playlist)
+
+iterator: Iterator = youtube.get_playlist_items_iterator(
+    playlist_id="PLK0b4e05LnzZh7g9-60nS0H_FxPlib7PV"
 )
-for playlist in iterator:
-    print(playlist)
+count = 0
+for videos in iterator:
+    # save_resource(videos, f"videos-{count}.json")
+    print(videos)
+    count += 1
+# results = load_resource('videos-0.json.json')
+# from tubectrl.resources.playlist_item.parsers import parse_playlist_items_list
+# results = parse_playlist_items_list(results['items'])
+# print(results)
