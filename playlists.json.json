@@ -1,0 +1,1206 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "jvCTWvGzq2nrx_b1NAyUznz8mN4",
+    "pageInfo": {
+        "totalResults": 23,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#playlist",
+            "etag": "YLBZzkHPrXINdoBxW_tnzzqmEdw",
+            "id": "PLwjK_iyK4LLDekRGPYyDZC0uCv844g4x4",
+            "snippet": {
+                "publishedAt": "2025-03-10T17:44:16.511973Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "Logic Family (Digital Electronics)",
+                "description": "This playlist covers the different Logic Families in the Digital Circuits such as TTL Logic, CMOS Logic, ECL Logic, Pass Transistor Logic etc.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/I74vWLGif_o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/I74vWLGif_o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/I74vWLGif_o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/I74vWLGif_o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/I74vWLGif_o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "Logic Family (Digital Electronics)",
+                    "description": "This playlist covers the different Logic Families in the Digital Circuits such as TTL Logic, CMOS Logic, ECL Logic, Pass Transistor Logic etc."
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 10
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLDekRGPYyDZC0uCv844g4x4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "23xshRCtXIIzC2Be0qzVBw3gywc",
+            "id": "PLwjK_iyK4LLD8Cdj0SKiMZFoK2d3eE6v2",
+            "snippet": {
+                "publishedAt": "2023-10-17T05:40:07.079355Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "Circuit Analysis using Laplace Transform (Network Analysis / Network Theory)",
+                "description": "This playlist covers the various topics related to Laplace Transform and how to do a circuit analysis using the Laplace Transform.\nThe following topics have been covered in the playlist:\n1. What is Laplace Transform? Why it is used in the circuit analysis\n2. Laplace Transform of basic Functions\n3. Laplace Transform Properties\n4. Initial and Final value Theorem\n5. Laplace Transform of Periodic Function\n6. How to Find the Inverse Laplace Transform\n7. Circuit Analysis using the Laplace Transform",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GK-o6RXjROY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GK-o6RXjROY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GK-o6RXjROY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GK-o6RXjROY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GK-o6RXjROY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "Circuit Analysis using Laplace Transform (Network Analysis / Network Theory)",
+                    "description": "This playlist covers the various topics related to Laplace Transform and how to do a circuit analysis using the Laplace Transform.\nThe following topics have been covered in the playlist:\n1. What is Laplace Transform? Why it is used in the circuit analysis\n2. Laplace Transform of basic Functions\n3. Laplace Transform Properties\n4. Initial and Final value Theorem\n5. Laplace Transform of Periodic Function\n6. How to Find the Inverse Laplace Transform\n7. Circuit Analysis using the Laplace Transform"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 18
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLD8Cdj0SKiMZFoK2d3eE6v2\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "DDOgCQVkLAZpajeJQKZw9Z1A7iQ",
+            "id": "PLwjK_iyK4LLCCpnnybEztvRqxpMyfgarS",
+            "snippet": {
+                "publishedAt": "2022-11-09T07:02:21.803377Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "Sequential Circuits",
+                "description": "This playlist covers the sequential circuits and related solved problems in the Digital Electronics. \nThe playlist covers the following topics:\n1. Latch and Flip-Flops. \n2. Different types of Flip-Flops (SR, D, T and JK Flip-Flops)\n3. Master Slave Flip-Flops\n4. Flip-Flop conversion\n5. Setup and Hold Time of Flip-Flop\n6. Asynchronous inputs in the Flip-Flops\n7. Shift Register (SISO, PIPO, PISO, SIPO)\n8. Application of Shift Registers\n9. Asynchronous Counters\n10. Synchronous Counters\n11. Finite State Machine (FSM)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fLN1YOmuAr8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fLN1YOmuAr8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fLN1YOmuAr8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fLN1YOmuAr8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fLN1YOmuAr8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "Sequential Circuits",
+                    "description": "This playlist covers the sequential circuits and related solved problems in the Digital Electronics. \nThe playlist covers the following topics:\n1. Latch and Flip-Flops. \n2. Different types of Flip-Flops (SR, D, T and JK Flip-Flops)\n3. Master Slave Flip-Flops\n4. Flip-Flop conversion\n5. Setup and Hold Time of Flip-Flop\n6. Asynchronous inputs in the Flip-Flops\n7. Shift Register (SISO, PIPO, PISO, SIPO)\n8. Application of Shift Registers\n9. Asynchronous Counters\n10. Synchronous Counters\n11. Finite State Machine (FSM)"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 66
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLCCpnnybEztvRqxpMyfgarS\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "jiiUqAe_EMA_FeKAuMN6ZmxGGlc",
+            "id": "PLwjK_iyK4LLDyIwyax2TW1z3fSoMmoRyj",
+            "snippet": {
+                "publishedAt": "2021-04-10T18:46:35.944026Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "Operational Amplifier (Op-Amp) Solved Problems",
+                "description": "The solved examples on op-amp, which covers op-amp basics and the applications of the op-amp.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rL37sB6Yx_s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rL37sB6Yx_s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rL37sB6Yx_s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rL37sB6Yx_s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rL37sB6Yx_s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "Operational Amplifier (Op-Amp) Solved Problems",
+                    "description": "The solved examples on op-amp, which covers op-amp basics and the applications of the op-amp."
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 69
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLDyIwyax2TW1z3fSoMmoRyj\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "e_PYL3aJZYv0BMaeVRp4rn6cvrY",
+            "id": "PLwjK_iyK4LLBC_so3odA64E2MLgIRKafl",
+            "snippet": {
+                "publishedAt": "2021-03-24T05:29:26.892708Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "Digital Electronics",
+                "description": "The playlist covers the following topics in the Digital Electronics.\n1. Number System (Binary, Octal, Decimal, Hexadecimal Number System)\n2. 1s and 2's Complement Representation\n3. Binary Addition and Subtraction, Multiplication and Division\n4. Logic Gates\n5. Boolean Algebra\n6. Adder and Subtractor\n7. Binary Multiplier and Divisor Circuits\n8. Parity Generator and Checker Circuits\n9. K-map and Solved Examples\n10. Multiplexer and Demultiplexer\n11. Encoder and Decoder\n12. Latch and Flip-flops\n13. Analog to Digital Converter (ADC)\n14. Digital to Analog Converter (DAC)\n15. Shift Registers\n16. Asynchronous Counters\n17. Synchronous Counters\n18. Finite State Machine (FSM)\n19. Serial Adder, Serial Multiplier \n20. Semiconductor Memories (RAM, ROM)\n21. Programmable Logic Devices (PROM, PAL,PLA etc.)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DBTna2ydmC0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DBTna2ydmC0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DBTna2ydmC0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DBTna2ydmC0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DBTna2ydmC0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "Digital Electronics",
+                    "description": "The playlist covers the following topics in the Digital Electronics.\n1. Number System (Binary, Octal, Decimal, Hexadecimal Number System)\n2. 1s and 2's Complement Representation\n3. Binary Addition and Subtraction, Multiplication and Division\n4. Logic Gates\n5. Boolean Algebra\n6. Adder and Subtractor\n7. Binary Multiplier and Divisor Circuits\n8. Parity Generator and Checker Circuits\n9. K-map and Solved Examples\n10. Multiplexer and Demultiplexer\n11. Encoder and Decoder\n12. Latch and Flip-flops\n13. Analog to Digital Converter (ADC)\n14. Digital to Analog Converter (DAC)\n15. Shift Registers\n16. Asynchronous Counters\n17. Synchronous Counters\n18. Finite State Machine (FSM)\n19. Serial Adder, Serial Multiplier \n20. Semiconductor Memories (RAM, ROM)\n21. Programmable Logic Devices (PROM, PAL,PLA etc.)"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 217
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLBC_so3odA64E2MLgIRKafl\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "UsEzplwtxGL71Gaae8bGD69GGtY",
+            "id": "PLwjK_iyK4LLCoFeg8LpGiFkntVJ5R9URp",
+            "snippet": {
+                "publishedAt": "2021-02-21T06:40:17.319967Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "Bipolar Junction Transistor (BJT) Solved Problems",
+                "description": "This playlist covers the solved problems on the BJT biasing, BJT amplifier, BJT- Differential amplifier, and multivibrator circuits using BJT.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/px42xfxD0zs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/px42xfxD0zs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/px42xfxD0zs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/px42xfxD0zs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/px42xfxD0zs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "Bipolar Junction Transistor (BJT) Solved Problems",
+                    "description": "This playlist covers the solved problems on the BJT biasing, BJT amplifier, BJT- Differential amplifier, and multivibrator circuits using BJT."
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 51
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLCoFeg8LpGiFkntVJ5R9URp\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "uMJVxT0yn_NXOx8sG774tu7joWk",
+            "id": "PLwjK_iyK4LLA-zCHK98LHTek38HUzbOxn",
+            "snippet": {
+                "publishedAt": "2020-07-04T13:08:28.737008Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "Fourier Series And Fourier Transform",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RFOGJB564Kk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RFOGJB564Kk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RFOGJB564Kk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RFOGJB564Kk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RFOGJB564Kk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "Fourier Series And Fourier Transform",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 8
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLA-zCHK98LHTek38HUzbOxn\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Roc-pqdCv1q1D7B8QZQnFmIb8ks",
+            "id": "PLwjK_iyK4LLBVM18VZ7JKW-q88FAtnr8_",
+            "snippet": {
+                "publishedAt": "2020-06-09T13:55:18.314602Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "Analog Electronics",
+                "description": "This playlist covers the various topics of analog electronics and the related solved examples. \nThe following topics are covered in this playlist. \n1) PN junction diode\n2) Diode based Circuits \n3) Zener Diode as Voltage Regulator\n4) Half wave and Full wave Rectifier\n5) Clipper and Clamper Circuits\n6) Varactor Diode\n7) Bipolar Junction Transistor  (BJT) Basics\n8) Common Emitter, Common Base and Common Collector Configuration of BJT\n9) Transistor Biasing\n10) BJT as a Switch\n11) Different Biasing Configurations of BJT (Voltage Divider, Collector Feedback, etc)\n12) BJT Small Signal Analysis\n13) Other BJT Circuits (Darlington Amplifier, Current Mirror, Differential Amplifier)\n14) JFET and MOSFET\n15) JFET and MOSFET biasing\n16) MOSFET Small Signal Analysis\n17) MOSFET Circuits (Current Mirror, Cascode Amplifier, Differential Amplifier)\n18) Operational Amplifier (Op-Amp)\n19) Op-Amp Parameters (Slew Rate, Gain Bandwidth Product, Offset Voltage etc)\n20) Other Op-Amp based Circuits (Precision Rectifier, Peak Detector etc)\n21) Analog Filters (Low Pass, High Pass, Band Pass Filters)\n22) Oscillator and Multivibrators \n23) 555 Timer and Timer based Circuits \n24) Phase Lock Loop (PLL)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EdUAecpYVWQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EdUAecpYVWQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EdUAecpYVWQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EdUAecpYVWQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EdUAecpYVWQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "Analog Electronics",
+                    "description": "This playlist covers the various topics of analog electronics and the related solved examples. \nThe following topics are covered in this playlist. \n1) PN junction diode\n2) Diode based Circuits \n3) Zener Diode as Voltage Regulator\n4) Half wave and Full wave Rectifier\n5) Clipper and Clamper Circuits\n6) Varactor Diode\n7) Bipolar Junction Transistor  (BJT) Basics\n8) Common Emitter, Common Base and Common Collector Configuration of BJT\n9) Transistor Biasing\n10) BJT as a Switch\n11) Different Biasing Configurations of BJT (Voltage Divider, Collector Feedback, etc)\n12) BJT Small Signal Analysis\n13) Other BJT Circuits (Darlington Amplifier, Current Mirror, Differential Amplifier)\n14) JFET and MOSFET\n15) JFET and MOSFET biasing\n16) MOSFET Small Signal Analysis\n17) MOSFET Circuits (Current Mirror, Cascode Amplifier, Differential Amplifier)\n18) Operational Amplifier (Op-Amp)\n19) Op-Amp Parameters (Slew Rate, Gain Bandwidth Product, Offset Voltage etc)\n20) Other Op-Amp based Circuits (Precision Rectifier, Peak Detector etc)\n21) Analog Filters (Low Pass, High Pass, Band Pass Filters)\n22) Oscillator and Multivibrators \n23) 555 Timer and Timer based Circuits \n24) Phase Lock Loop (PLL)"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 336
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLBVM18VZ7JKW-q88FAtnr8_\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "fB3XXc5jJZxphdDhFDeZ5Wne8-U",
+            "id": "PLwjK_iyK4LLArUHRm3SvPLT0XWlVhpl4h",
+            "snippet": {
+                "publishedAt": "2020-05-19T18:00:09.142519Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "Analog and Digital Communication",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qhjj6WG7Rgc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qhjj6WG7Rgc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qhjj6WG7Rgc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qhjj6WG7Rgc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qhjj6WG7Rgc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "Analog and Digital Communication",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 33
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLArUHRm3SvPLT0XWlVhpl4h\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "n9DJVAYDXJjcFk5DrO3tJB1Z8x4",
+            "id": "PLwjK_iyK4LLA-476CJ7dU-7WnQsGrexDU",
+            "snippet": {
+                "publishedAt": "2019-12-13T18:11:11.822449Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "Two-Port Network",
+                "description": "This playlist provides the video tutorials and the Solved Problems on the Two-Port Network.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ru2ItcD6unI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ru2ItcD6unI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ru2ItcD6unI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ru2ItcD6unI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ru2ItcD6unI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "Two-Port Network",
+                    "description": "This playlist provides the video tutorials and the Solved Problems on the Two-Port Network."
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 15
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLA-476CJ7dU-7WnQsGrexDU\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "YpGhACjV89iD2aeKpODe2T1YjfE",
+            "id": "PLwjK_iyK4LLDoFG8FeiKAr3IStRkPSxqq",
+            "snippet": {
+                "publishedAt": "2019-09-10T13:50:27.033616Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "BJT (Bipolar Junction Transistor)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-VwPSDQmdjM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-VwPSDQmdjM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-VwPSDQmdjM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-VwPSDQmdjM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-VwPSDQmdjM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "BJT (Bipolar Junction Transistor)",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 30
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLDoFG8FeiKAr3IStRkPSxqq\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "E0xD-SnvgqLzycjI-Isx3hMr_So",
+            "id": "PLwjK_iyK4LLCko62wq4HkwQtj63Uw1d_n",
+            "snippet": {
+                "publishedAt": "2019-08-24T14:46:11.50187Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "Members Only Videos",
+                "description": "The solution of Members Only Quiz.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/igtKMZ-feec/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/igtKMZ-feec/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/igtKMZ-feec/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/igtKMZ-feec/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/igtKMZ-feec/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "Members Only Videos",
+                    "description": "The solution of Members Only Quiz."
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 45
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLCko62wq4HkwQtj63Uw1d_n\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "r2XsR6EWDJrFv7QPdy_ymC9tn40",
+            "id": "PLwjK_iyK4LLCnW-df-_53d-6yYrGb9zZc",
+            "snippet": {
+                "publishedAt": "2019-05-20T06:25:15.554428Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "ADC and DAC (Analog to Digital And Digital to Analog Converters)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HicZcgdGxZY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HicZcgdGxZY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HicZcgdGxZY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HicZcgdGxZY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HicZcgdGxZY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "ADC and DAC (Analog to Digital And Digital to Analog Converters)",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 26
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLCnW-df-_53d-6yYrGb9zZc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "c1CL9YdDayf3XRqYhfFigJXrwyU",
+            "id": "PLwjK_iyK4LLC-tRT_Uml3T-ifdcmuykjV",
+            "snippet": {
+                "publishedAt": "2019-01-29T05:05:14.09309Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "JFET and MOSFET",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cOICDYuY-gA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cOICDYuY-gA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cOICDYuY-gA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cOICDYuY-gA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cOICDYuY-gA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "JFET and MOSFET",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 53
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLC-tRT_Uml3T-ifdcmuykjV\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "sigyYJbiGqKJ96yS8fLmD0nvKs8",
+            "id": "PLwjK_iyK4LLDE3eB-uSifs3h-wLrZNaSY",
+            "snippet": {
+                "publishedAt": "2018-09-24T05:47:19.926908Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "Electronics Quiz  (Solutions)",
+                "description": "This playlist provides the video solution of the daily Quiz which is posted on the channel.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sUKuQPOHDZ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sUKuQPOHDZ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sUKuQPOHDZ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sUKuQPOHDZ0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sUKuQPOHDZ0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "Electronics Quiz  (Solutions)",
+                    "description": "This playlist provides the video solution of the daily Quiz which is posted on the channel."
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 222
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLDE3eB-uSifs3h-wLrZNaSY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "fIqS3jKmk8wGboeFXvvOAD-IVtw",
+            "id": "PLwjK_iyK4LLCVdgBR30pSFVj-17TI_8ou",
+            "snippet": {
+                "publishedAt": "2018-08-23T09:20:10.045892Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "Oscillators and Multivibrators",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XVS8Puf4tiw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XVS8Puf4tiw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XVS8Puf4tiw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XVS8Puf4tiw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XVS8Puf4tiw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "Oscillators and Multivibrators",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 20
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLCVdgBR30pSFVj-17TI_8ou\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "pql8El-KDH7NSy0eHIz5UAeizhE",
+            "id": "PLwjK_iyK4LLBj2yTYPYKFKdF6kIg0ccP2",
+            "snippet": {
+                "publishedAt": "2018-06-25T05:11:58.800661Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "Diode and Diode Applications",
+                "description": "This playlist covers the basics of the diode and diode based circuits. The playlist also covers the solved problems related to diode.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EdUAecpYVWQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EdUAecpYVWQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EdUAecpYVWQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EdUAecpYVWQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EdUAecpYVWQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "Diode and Diode Applications",
+                    "description": "This playlist covers the basics of the diode and diode based circuits. The playlist also covers the solved problems related to diode."
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 62
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLBj2yTYPYKFKdF6kIg0ccP2\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "GDpvZ56qbbRiMbSgrf4LS6W8udI",
+            "id": "PLwjK_iyK4LLCAN5TddEZyliChEMpF0oOL",
+            "snippet": {
+                "publishedAt": "2018-05-07T14:12:44.566568Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "Basics of Electronics",
+                "description": "This Course covers the basics of the Electronics. This is a beginners course, and anyone who want to start learning the electronics, should start from this course. \nThe course covers the following topics of Electronics.\n1) Voltage, Current and Power in Electrical and Electronic Circuits\n2) Concept of Capacitor, how it works\n3) General Specifications of Capacitor and types of Capacitors\n4) Ohm's Law\n5) What is Resistor and Types of Resistors used in Electrical and Electronic Circuits\n6) Resistor Colour Coding\n7) SMD resistor Coding\n8) Why Zero ohm resistor used in Electronics?\n9) Resistor Combination: Series and Parallel Combination of Resistors\n10) What is Impedance? Input and Output Impedance of Circuit\n11) Ideal Voltage Source vs Practical Voltage Source\n12) Ideal Current Source vs Practical Current Source\n13) Semiconductor: What is Intrinsic and Extrinsic Semiconductor \n14) PN junction Diode\n15) What is Light Emitting Diode (LED)\n16) What is dB in Electronic Circuits ? What is the meaning of dB, dBm, dBW and dBV\n17) What is Pulse Width Modulation ?\n18) What is Heat Sink ? Why Heat Sinks are used in Electrical and Electronic Circuits ?\n19) What is Photodiode ? How does Photo diode works?\n20) What is Pull-up resistor and pull-down resistor ? why they are used in Electronic Circuit ?\n21) What is Galvanic Isolation ? Why it is used in Electronic Systems?\n22) How to find the Absorbed Power and Supplied Power by the element in the circuit ?\n23) What is Real Time Clock ? How TRC woks ?\n24) What is thermistor ?",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eFPTBATfX70/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eFPTBATfX70/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eFPTBATfX70/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eFPTBATfX70/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eFPTBATfX70/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "Basics of Electronics",
+                    "description": "This Course covers the basics of the Electronics. This is a beginners course, and anyone who want to start learning the electronics, should start from this course. \nThe course covers the following topics of Electronics.\n1) Voltage, Current and Power in Electrical and Electronic Circuits\n2) Concept of Capacitor, how it works\n3) General Specifications of Capacitor and types of Capacitors\n4) Ohm's Law\n5) What is Resistor and Types of Resistors used in Electrical and Electronic Circuits\n6) Resistor Colour Coding\n7) SMD resistor Coding\n8) Why Zero ohm resistor used in Electronics?\n9) Resistor Combination: Series and Parallel Combination of Resistors\n10) What is Impedance? Input and Output Impedance of Circuit\n11) Ideal Voltage Source vs Practical Voltage Source\n12) Ideal Current Source vs Practical Current Source\n13) Semiconductor: What is Intrinsic and Extrinsic Semiconductor \n14) PN junction Diode\n15) What is Light Emitting Diode (LED)\n16) What is dB in Electronic Circuits ? What is the meaning of dB, dBm, dBW and dBV\n17) What is Pulse Width Modulation ?\n18) What is Heat Sink ? Why Heat Sinks are used in Electrical and Electronic Circuits ?\n19) What is Photodiode ? How does Photo diode works?\n20) What is Pull-up resistor and pull-down resistor ? why they are used in Electronic Circuit ?\n21) What is Galvanic Isolation ? Why it is used in Electronic Systems?\n22) How to find the Absorbed Power and Supplied Power by the element in the circuit ?\n23) What is Real Time Clock ? How TRC woks ?\n24) What is thermistor ?"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 27
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLCAN5TddEZyliChEMpF0oOL\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "X94JOgZnv9PA9lAETexo3drUDSE",
+            "id": "PLwjK_iyK4LLDBB1E9MFbxGCEnmMMOAXOH",
+            "snippet": {
+                "publishedAt": "2017-12-04T14:05:34.355296Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "Op-Amp (Operational Amplifier)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kiiA6WTCQn0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kiiA6WTCQn0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kiiA6WTCQn0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kiiA6WTCQn0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kiiA6WTCQn0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "Op-Amp (Operational Amplifier)",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 33
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLDBB1E9MFbxGCEnmMMOAXOH\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "J2bnbJ5PbBUytaoUQSyRywFENe8",
+            "id": "PLwjK_iyK4LLCQkfK92vdh3gAXoaOXXQDu",
+            "snippet": {
+                "publishedAt": "2017-08-23T06:42:50.248404Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "Analog Filters",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_2L0l-E1Wx0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_2L0l-E1Wx0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_2L0l-E1Wx0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_2L0l-E1Wx0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_2L0l-E1Wx0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "Analog Filters",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 7
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLCQkfK92vdh3gAXoaOXXQDu\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "HVJenROq4yCzu8Q8r-1PjYcJosA",
+            "id": "PLwjK_iyK4LLAdFEABWm9Kgc3kVRNjDu5y",
+            "snippet": {
+                "publishedAt": "2017-05-18T15:16:55.573723Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "Magnetically Coupled Circuits",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hoTInTKij0o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hoTInTKij0o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hoTInTKij0o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hoTInTKij0o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hoTInTKij0o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "Magnetically Coupled Circuits",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 5
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLAdFEABWm9Kgc3kVRNjDu5y\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "WQF-oJMWVU43IpCJdrcXReD0rW4",
+            "id": "PLwjK_iyK4LLDew546gmrJhB8zU9q_AmOy",
+            "snippet": {
+                "publishedAt": "2017-03-23T17:29:17.85755Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "Technology",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dcNk0urQsQM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dcNk0urQsQM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dcNk0urQsQM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dcNk0urQsQM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dcNk0urQsQM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "Technology",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 19
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLDew546gmrJhB8zU9q_AmOy\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "iTl7bvFq7N8ahC2W4LxPfxhkWWY",
+            "id": "PLwjK_iyK4LLBN9RIDQfl9YB4caBYyD_uo",
+            "snippet": {
+                "publishedAt": "2016-11-21T18:54:43.738801Z",
+                "channelId": "UCBkOVp1Cqz4MR0LYR8vKpZg",
+                "title": "Network Analysis / Network Theory",
+                "description": "The Course covers the following topics on network analysis/ Network Theory\n\n1. Basic Concept of Voltage, Current and Power\n2. Basic Circuit elements (Resistor, Capacitor and Inductor)\n3. Concept of Loop, Mesh, Node and Branch in the circuit analysis\n4. Nodal and Mesh Analysis Techniques\n5. Concept of Super node and Super mesh\n7. Network Theorems (Thevenin's Theorem, Superposition Theorem, Maximum Power Transfer Theorem, Norton's Theorem etc)\n8. Series and Parallel Resonance\n9. Concept of Phasors and Phasor Diagram\n10. Sinusoidal Steady State Analysis\n11. Transient Analysis of RL, RC and RLC Circuits\n12. Laplace Transform and Circuit Analysis using Laplace Transform\n13. Magnetically Coupled Circuits",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zUGaU4kZpag/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zUGaU4kZpag/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zUGaU4kZpag/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zUGaU4kZpag/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zUGaU4kZpag/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ALL ABOUT ELECTRONICS",
+                "localized": {
+                    "title": "Network Analysis / Network Theory",
+                    "description": "The Course covers the following topics on network analysis/ Network Theory\n\n1. Basic Concept of Voltage, Current and Power\n2. Basic Circuit elements (Resistor, Capacitor and Inductor)\n3. Concept of Loop, Mesh, Node and Branch in the circuit analysis\n4. Nodal and Mesh Analysis Techniques\n5. Concept of Super node and Super mesh\n7. Network Theorems (Thevenin's Theorem, Superposition Theorem, Maximum Power Transfer Theorem, Norton's Theorem etc)\n8. Series and Parallel Resonance\n9. Concept of Phasors and Phasor Diagram\n10. Sinusoidal Steady State Analysis\n11. Transient Analysis of RL, RC and RLC Circuits\n12. Laplace Transform and Circuit Analysis using Laplace Transform\n13. Magnetically Coupled Circuits"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 129
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLwjK_iyK4LLBN9RIDQfl9YB4caBYyD_uo\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        }
+    ]
+}

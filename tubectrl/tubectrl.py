@@ -1,5 +1,5 @@
 from pathlib import Path
-from typing import Any, Optional
+from typing import Any, Iterator, Optional
 
 from google.oauth2.credentials import Credentials
 from gverify import GoogleOAuth, YouTubeScopes
@@ -8,7 +8,7 @@ from pydantic import BaseModel
 
 from .exceptions import InvalidSecretsFileError, MissingClientSecretsFile
 from .models import Video
-from .resources import YouTubeVideoResource
+from .resources import YouTubePlaylistResource, YouTubeVideoResource
 
 
 class YouTube(BaseModel):
@@ -127,3 +127,14 @@ class YouTube(BaseModel):
         )
         videos: list[Video] = video_resource.find_videos_by_ids(video_ids=video_ids)
         return videos
+
+    def get_channel_playlists_iterator(
+        self, channel_id: str, max_results: int = 25
+    ) -> Iterator:
+        """Get an iterator for iterating through playlists in your channel."""
+        playlist: YouTubePlaylistResource = YouTubePlaylistResource(
+            youtube_client=self.youtube_client
+        )
+        return playlist.get_channel_playlists_iterator(
+            max_results=max_results, channel_id=channel_id
+        )

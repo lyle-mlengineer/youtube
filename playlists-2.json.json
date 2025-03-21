@@ -1,0 +1,761 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "ZBbIiyMyZc5AxHJZtTIp47w83bQ",
+    "prevPageToken": "CDIQAQ",
+    "pageInfo": {
+        "totalResults": 65,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#playlist",
+            "etag": "s9L8nLcs4oR9y1G3jEkZ7JzzfjA",
+            "id": "PLK0b4e05LnzZXnex0IrHHnkg9EobqTybi",
+            "snippet": {
+                "publishedAt": "2018-02-07T18:41:57.995949Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS-Industrial",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ke8BA4wk8_0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ke8BA4wk8_0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ke8BA4wk8_0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ke8BA4wk8_0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS-Industrial",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 3
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzZXnex0IrHHnkg9EobqTybi\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "NLJ3_dkLjtxJ5xmBkp637Dcu2XE",
+            "id": "PLK0b4e05LnzbATxGelcsXlcHBB_1l9lac",
+            "snippet": {
+                "publishedAt": "2018-02-04T19:52:10.475597Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS Tutorials (Arabe Tunisien)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zGRKvJBqL4I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zGRKvJBqL4I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zGRKvJBqL4I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zGRKvJBqL4I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS Tutorials (Arabe Tunisien)",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 1
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzbATxGelcsXlcHBB_1l9lac\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "UsC5oN6WBFHhCldU8y4ZhBEhqV0",
+            "id": "PLK0b4e05LnzaY2QxaTHkvLJPNVNx-ssDW",
+            "snippet": {
+                "publishedAt": "2018-01-30T17:08:41.636953Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS Projects",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WeBwio2mUZk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WeBwio2mUZk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WeBwio2mUZk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WeBwio2mUZk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS Projects",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 18
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzaY2QxaTHkvLJPNVNx-ssDW\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "0NsA_JBtTHuIsoccV34h-Kh1C2s",
+            "id": "PLK0b4e05LnzYWTRPdM9kfQLQv3kIyYVUs",
+            "snippet": {
+                "publishedAt": "2018-01-12T14:42:34.310546Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS Tutorials (Greek)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PLtPs1AyDro/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PLtPs1AyDro/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PLtPs1AyDro/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PLtPs1AyDro/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PLtPs1AyDro/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS Tutorials (Greek)",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 2
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzYWTRPdM9kfQLQv3kIyYVUs\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "hTujVNQYlQVHEQf68GM4YJsWzho",
+            "id": "PLK0b4e05LnzZ_cu895Ys6xXJsrs7QFm5S",
+            "snippet": {
+                "publishedAt": "2018-01-02T10:59:07.583167Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS Tutorials (Hindi)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s8jLQpsFw4A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s8jLQpsFw4A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s8jLQpsFw4A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/s8jLQpsFw4A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/s8jLQpsFw4A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS Tutorials (Hindi)",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 5
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzZ_cu895Ys6xXJsrs7QFm5S\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Dxw0N7lkRX9QMBry8dGzuAX7pmc",
+            "id": "PLK0b4e05LnzbnuhkdBW13lezuiE-1vyzS",
+            "snippet": {
+                "publishedAt": "2018-01-02T10:56:18.762845Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS Spanish Tutorials",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EYpxVdJVy3c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EYpxVdJVy3c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EYpxVdJVy3c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EYpxVdJVy3c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EYpxVdJVy3c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS Spanish Tutorials",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 12
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzbnuhkdBW13lezuiE-1vyzS\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "H0yilwaO6tprsiZc_Nn4qYBQ99s",
+            "id": "PLK0b4e05LnzazEXI3heKyJwRAaisYwQum",
+            "snippet": {
+                "publishedAt": "2017-12-28T14:40:42.398064Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS Manipulation",
+                "description": "http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/ros-manipulation-in-5-days/\n\nA Brief Summary\n---------------------------\nROS Manipulation is the term used to refer to any robot that manipulates something in its environment.\nThe main goal of this Course is to teach you the basic tools you need to know in order to be able to understand how ROS Manipulation works, and teach you how to implement it for any manipulator robot.\n\nWhat you will learn\n---------------------------\nAt the end of this Course you will feel comfortable about the following subjects:\n\u2713 Basics of ROS Manipulation\n\u2713 How to create and configure a MoveIt! package for a manipulator robot\n\u2713 How to perform Motion Planning\n\u2713 How to perform Grasping.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j0lJcVkoyMw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j0lJcVkoyMw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j0lJcVkoyMw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/j0lJcVkoyMw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/j0lJcVkoyMw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS Manipulation",
+                    "description": "http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/ros-manipulation-in-5-days/\n\nA Brief Summary\n---------------------------\nROS Manipulation is the term used to refer to any robot that manipulates something in its environment.\nThe main goal of this Course is to teach you the basic tools you need to know in order to be able to understand how ROS Manipulation works, and teach you how to implement it for any manipulator robot.\n\nWhat you will learn\n---------------------------\nAt the end of this Course you will feel comfortable about the following subjects:\n\u2713 Basics of ROS Manipulation\n\u2713 How to create and configure a MoveIt! package for a manipulator robot\n\u2713 How to perform Motion Planning\n\u2713 How to perform Grasping."
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 3
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzazEXI3heKyJwRAaisYwQum\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Z4tVU9PuvdeGW_ka8jsGL5S_42w",
+            "id": "PLK0b4e05LnzbNutdZqqdadxyXMOUEdJyk",
+            "snippet": {
+                "publishedAt": "2017-12-09T12:35:36.061991Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS Tutorials (Arabic)",
+                "description": "This list contains the basic ROS tutorials series in Arabic language, made by ROS Ambassadors whose mother tongue is Arabic.\nIf you want to become a ROS Ambassador and also do tutorials, check this page: http://www.theconstructsim.com/ros-ambassadors-program/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sMt-sqB3Y8s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sMt-sqB3Y8s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sMt-sqB3Y8s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sMt-sqB3Y8s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sMt-sqB3Y8s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS Tutorials (Arabic)",
+                    "description": "This list contains the basic ROS tutorials series in Arabic language, made by ROS Ambassadors whose mother tongue is Arabic.\nIf you want to become a ROS Ambassador and also do tutorials, check this page: http://www.theconstructsim.com/ros-ambassadors-program/"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 8
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzbNutdZqqdadxyXMOUEdJyk\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "KVTosUzjS0jFga6iYiQxYjyrhjg",
+            "id": "PLK0b4e05LnzZA_fWYi1_VEuBzNw9BGo6s",
+            "snippet": {
+                "publishedAt": "2017-11-18T17:41:38.564022Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS Navigation",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5nZc5iSr5is/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5nZc5iSr5is/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5nZc5iSr5is/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5nZc5iSr5is/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS Navigation",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 5
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzZA_fWYi1_VEuBzNw9BGo6s\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "QFNwRCJ20VPXHHZq7jkK3WjtfGY",
+            "id": "PLK0b4e05LnzbuxWCdip-2Tf-SIiZle5NA",
+            "snippet": {
+                "publishedAt": "2017-11-02T10:55:57.52571Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS Developers OPEN Class",
+                "description": "Free ROS LIVE Class on how to develop with ROS. Every Tuesday @ 18h.  You will learn one specific ROS subject and you will practice with Ricardo sensei at the same time.\n\nYou can find the LIVE-Class schedule here: http://www.theconstructsim.com/ros-developers-live-class-develop-with-ros/\n\nROS Developers Weekly LIVE-Class\n-------------------------------------------------------\nSend us your question about:\n* Practical ROS developments\n* ROS projects problems\n* ROS applications\n\n... anything related to the real application of ROS for robotics projects\n\nOur ROS experts will contact you for further details and extra information.\n\nThe solution to your question will be answered during the live show.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q8oN7rW1C6k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q8oN7rW1C6k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q8oN7rW1C6k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Q8oN7rW1C6k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Q8oN7rW1C6k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS Developers OPEN Class",
+                    "description": "Free ROS LIVE Class on how to develop with ROS. Every Tuesday @ 18h.  You will learn one specific ROS subject and you will practice with Ricardo sensei at the same time.\n\nYou can find the LIVE-Class schedule here: http://www.theconstructsim.com/ros-developers-live-class-develop-with-ros/\n\nROS Developers Weekly LIVE-Class\n-------------------------------------------------------\nSend us your question about:\n* Practical ROS developments\n* ROS projects problems\n* ROS applications\n\n... anything related to the real application of ROS for robotics projects\n\nOur ROS experts will contact you for further details and extra information.\n\nThe solution to your question will be answered during the live show."
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 212
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzbuxWCdip-2Tf-SIiZle5NA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "zEhZAPd3-rh3SsDrDeR7LR4pWfc",
+            "id": "PLK0b4e05LnzaguKPzW4hCVclNWu1dbT3m",
+            "snippet": {
+                "publishedAt": "2017-11-02T10:52:28.405266Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS Webinars",
+                "description": "ROS WEBINARS\n\u00b7 A series of webinars designed to help you equip your team with ROS fast. \n\n#ROS #ROSwebinars #LearnROS",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cPJsNqZdm6E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cPJsNqZdm6E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cPJsNqZdm6E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cPJsNqZdm6E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cPJsNqZdm6E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS Webinars",
+                    "description": "ROS WEBINARS\n\u00b7 A series of webinars designed to help you equip your team with ROS fast. \n\n#ROS #ROSwebinars #LearnROS"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 8
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzaguKPzW4hCVclNWu1dbT3m\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "unLjWAFAqwUMrWAVH6473o7oB6U",
+            "id": "PLK0b4e05LnzZ73iWczaQfsm3h8lP7JT33",
+            "snippet": {
+                "publishedAt": "2017-10-31T14:38:43.919498Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS Perception",
+                "description": "Start Learning this course: http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/ros-perception-in-5-days/\nRobot Operating System (ROS) Perception in 5 Days video tutorials. Learn OpenCV, FaceRecognition, Person tracking and object recognition.\n\nA Brief Summary:\n------------------------------\nPerception is probably one of the most important things when we talk about autonomy.\nIn this course you will learn how perception is performed by robots using the ROS Framework.\n\n\nWhat You Will Learn:\n--------------------------------\nAt the end of this course you will fell comfortable about making robots do the following things:\n\u2713 Track objects by its color blobs\n\u2713 Navigate following floor lines with only RGB camera\n\u2713 Detect human faces and track them\n\u2713 Recognize different faces\n\u2713 Track a person through a 3D environment\n\u2713 Recognize flat surfaces like tables where object might be placed\n\u2713 Recognize objects and track them in 3D space with PointCloudSensors",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/49eNObyWjzg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/49eNObyWjzg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/49eNObyWjzg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/49eNObyWjzg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS Perception",
+                    "description": "Start Learning this course: http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros/ros-courses-library/ros-perception-in-5-days/\nRobot Operating System (ROS) Perception in 5 Days video tutorials. Learn OpenCV, FaceRecognition, Person tracking and object recognition.\n\nA Brief Summary:\n------------------------------\nPerception is probably one of the most important things when we talk about autonomy.\nIn this course you will learn how perception is performed by robots using the ROS Framework.\n\n\nWhat You Will Learn:\n--------------------------------\nAt the end of this course you will fell comfortable about making robots do the following things:\n\u2713 Track objects by its color blobs\n\u2713 Navigate following floor lines with only RGB camera\n\u2713 Detect human faces and track them\n\u2713 Recognize different faces\n\u2713 Track a person through a 3D environment\n\u2713 Recognize flat surfaces like tables where object might be placed\n\u2713 Recognize objects and track them in 3D space with PointCloudSensors"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 8
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzZ73iWczaQfsm3h8lP7JT33\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "nRnH9ylSk9IVFxqZr8B0jCbxkG0",
+            "id": "PLK0b4e05LnzZWg_7QrIQWyvSPX2WN2ncc",
+            "snippet": {
+                "publishedAt": "2017-10-27T10:16:06.245224Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS Tutorials for Beginners",
+                "description": "Start Learning this course: https://goo.gl/Bk7bBz\nRobot Operating System (ROS) Basics video tutorials for ROS Beginners. Learn the main concepts required to create and understand ROS programs. \n\n[About the Course]\nThis course gives an introduction to the Robot Operating System (ROS) including main concepts required to create and understand ROS programs.Students will learn ROS basics by programming online simulated robots.\n\nThis course covers following subjects:\n-  ROS Basic : Basic Concepts, Move a Robot with ROS, Create and Compiling a ROS package, launch file, ROS Nodes, Parameter Server, ROS Core\n-  ROS Topics : Publisher. Messages, Subscriber\n-  ROS Services : call a ROS Service, custom Service Compilation\n-  ROS Actions : calling an Action Server\n-  ROS Debugging Tools : Debugging Messages and RQT-Console, Plot topic data and RQT Plot, Node Connections and RQT graph, Record experimental data and ROSBags, Visualize Complex data and RViz\n- Course Projects\n\n[The course is available here]\n - ROS Bascis Online Course (Python) | https://goo.gl/bXCzv7\n - ROS Bascis Online Course (C++) | https://goo.gl/r28u68\n\n[ Robots Used in this course ]\n- BB-8\n- Husky\n- WAM Arm\n- Parrot AR.Drone\n- Sphero\n- Turtlebot 2\n\n[ Requirement ]\nA laptop and internet connection. No required installation, compilation, specific computer.\n\n[ Objetive ]\nThe objective of this course is to give you the basic tools and knowledge to be able to understand and create any basic ROS related project. You will be able to move robots, read their sensor data, make the robots perform intelligent tasks, see visual representations of complex data such as Point Clouds and debug errors in the programs.\n\n----\n// Watch the complete tutorials for ROS programming here: https://www.youtube.com/watch?v=DBFYZ...\n\n// Robot Ignite Academy is a series of online web courses and ROS tutorials giving you the tools and knowledge to be able to understand and create any ROS based robotics development.\n\nHow it works:\n* no installation and devices required\n* ideal for beginner/intermediate roboticist aiming to become proficient in ROS\n* integrates ROS theory and practice, learn by programming different simulated robots.\n* ROS teaching material and exam provided",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DBFYZRMLr70/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DBFYZRMLr70/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DBFYZRMLr70/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DBFYZRMLr70/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DBFYZRMLr70/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS Tutorials for Beginners",
+                    "description": "Start Learning this course: https://goo.gl/Bk7bBz\nRobot Operating System (ROS) Basics video tutorials for ROS Beginners. Learn the main concepts required to create and understand ROS programs. \n\n[About the Course]\nThis course gives an introduction to the Robot Operating System (ROS) including main concepts required to create and understand ROS programs.Students will learn ROS basics by programming online simulated robots.\n\nThis course covers following subjects:\n-  ROS Basic : Basic Concepts, Move a Robot with ROS, Create and Compiling a ROS package, launch file, ROS Nodes, Parameter Server, ROS Core\n-  ROS Topics : Publisher. Messages, Subscriber\n-  ROS Services : call a ROS Service, custom Service Compilation\n-  ROS Actions : calling an Action Server\n-  ROS Debugging Tools : Debugging Messages and RQT-Console, Plot topic data and RQT Plot, Node Connections and RQT graph, Record experimental data and ROSBags, Visualize Complex data and RViz\n- Course Projects\n\n[The course is available here]\n - ROS Bascis Online Course (Python) | https://goo.gl/bXCzv7\n - ROS Bascis Online Course (C++) | https://goo.gl/r28u68\n\n[ Robots Used in this course ]\n- BB-8\n- Husky\n- WAM Arm\n- Parrot AR.Drone\n- Sphero\n- Turtlebot 2\n\n[ Requirement ]\nA laptop and internet connection. No required installation, compilation, specific computer.\n\n[ Objetive ]\nThe objective of this course is to give you the basic tools and knowledge to be able to understand and create any basic ROS related project. You will be able to move robots, read their sensor data, make the robots perform intelligent tasks, see visual representations of complex data such as Point Clouds and debug errors in the programs.\n\n----\n// Watch the complete tutorials for ROS programming here: https://www.youtube.com/watch?v=DBFYZ...\n\n// Robot Ignite Academy is a series of online web courses and ROS tutorials giving you the tools and knowledge to be able to understand and create any ROS based robotics development.\n\nHow it works:\n* no installation and devices required\n* ideal for beginner/intermediate roboticist aiming to become proficient in ROS\n* integrates ROS theory and practice, learn by programming different simulated robots.\n* ROS teaching material and exam provided"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 10
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzZWg_7QrIQWyvSPX2WN2ncc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "FKEFm_muADSXGMjEBfjlYdWsIng",
+            "id": "PLK0b4e05LnzbrLrLhOhSvLdaQZOsJl59N",
+            "snippet": {
+                "publishedAt": "2017-07-05T08:13:33.887129Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS Q&A",
+                "description": "VIEW ALL ROS Q&A VIDEO ANSWERS: http://www.theconstructsim.com/ros-qa/\nVideo answers for Robot Operating System (ROS) problems\n\n*Updated daily from Monday to Friday",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JJDebiniDBw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JJDebiniDBw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JJDebiniDBw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JJDebiniDBw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JJDebiniDBw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS Q&A",
+                    "description": "VIEW ALL ROS Q&A VIDEO ANSWERS: http://www.theconstructsim.com/ros-qa/\nVideo answers for Robot Operating System (ROS) problems\n\n*Updated daily from Monday to Friday"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 215
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzbrLrLhOhSvLdaQZOsJl59N\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "oXS5AkuO1GvQQrnIkaGsyPPzb50",
+            "id": "PLK0b4e05LnzaOZxQt0OwMRwIa8ysYG9_a",
+            "snippet": {
+                "publishedAt": "2017-04-07T07:28:00.407775Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "Advanced ROS Tutorials : Mastering ROS (FAST)",
+                "description": "Learn latest tech trend in ROS ecosystem, in the list of Advanced ROS tutorials you will learn: \n\n- ROS Industrial \n- Learn ROS for Self-Driving Cars\n- TF ROS\n- RTAB-Map in ROS\n- OpenAI Gym for ROS based robots\n- ROS Control\n- TensorFlow Image Recognition",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J6Mu1P6FlxY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J6Mu1P6FlxY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J6Mu1P6FlxY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/J6Mu1P6FlxY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "Advanced ROS Tutorials : Mastering ROS (FAST)",
+                    "description": "Learn latest tech trend in ROS ecosystem, in the list of Advanced ROS tutorials you will learn: \n\n- ROS Industrial \n- Learn ROS for Self-Driving Cars\n- TF ROS\n- RTAB-Map in ROS\n- OpenAI Gym for ROS based robots\n- ROS Control\n- TensorFlow Image Recognition"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 8
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzaOZxQt0OwMRwIa8ysYG9_a\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        }
+    ]
+}

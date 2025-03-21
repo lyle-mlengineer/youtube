@@ -1,3 +1,4 @@
+from .playlist import PlaylistFilter, PlaylistOptionalParameters, PlaylistPart
 from .request_filter import Filter
 from .request_optional_parameters import OptionalParameters
 from .request_part import Part

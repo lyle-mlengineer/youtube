@@ -9,34 +9,19 @@ from ...models import (
     Player,
     ProcessingDetails,
     RecordingDetails,
-    Snippet,
     Statistics,
-    Status,
     Suggestions,
     Thumbnail,
     TopicDetails,
     Video,
+    VideoSnippet,
+    VideoStatus,
 )
+from ..parsers import parse_localized, parse_thumbnail
 
 
-def parse_thumbnail(resolution: str, details: dict) -> Thumbnail:
-    thumbnail: Thumbnail = Thumbnail()
-    thumbnail.resolution = resolution
-    if details.get("url"):
-        thumbnail.url = details["url"]
-    if details.get("width"):
-        thumbnail.width = details["width"]
-    if details.get("height"):
-        thumbnail.height = details["height"]
-    return thumbnail
-
-
-def parse_localized(localized_data: dict[str, Any]) -> Localized:
-    pass
-
-
-def parse_snippet(snippet_data: dict[str, Any]) -> Snippet:
-    snippet: Snippet = Snippet()
+def parse_snippet(snippet_data: dict[str, Any]) -> VideoSnippet:
+    snippet: VideoSnippet = VideoSnippet()
     if snippet_data.get("title"):
         snippet.title = snippet_data["title"]
     if snippet_data.get("description"):
@@ -65,7 +50,7 @@ def parse_snippet(snippet_data: dict[str, Any]) -> Snippet:
     return snippet
 
 
-def parse_status(status_data: dict[str, int]) -> Status:
+def parse_status(status_data: dict[str, int]) -> VideoStatus:
     pass
 
 
@@ -208,6 +193,9 @@ class VideoParser:
 def parse_video(video_result: dict) -> Video:
     video = Video()
     video_parser = VideoParser(video_result, video)
+    video_parser.parse_kind()
+    video_parser.parse_id()
+    video_parser.parse_etag()
     video_parser.parse_snippet()
     video_parser.parse_status()
     video_parser.parse_statistics()

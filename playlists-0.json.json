@@ -1,0 +1,1276 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "VHzMG2jFs_RYSCJh6-X8lHiEYnQ",
+    "nextPageToken": "CBkQAA",
+    "pageInfo": {
+        "totalResults": 65,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#playlist",
+            "etag": "xpw8X-KdMrN3Axv3rDlRqxIr2Xc",
+            "id": "PLK0b4e05LnzbLQ30eJREVH8KrGxfCGSCw",
+            "snippet": {
+                "publishedAt": "2025-01-24T17:26:15.346208Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "How to build a one-person robotics business: education",
+                "description": "About creating your own one-person business in robotics. A business where you\u2019re your own boss\u2014no rigid schedules, no office politics, and the freedom to work from anywhere in the world",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yFgNg_iKhVI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yFgNg_iKhVI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yFgNg_iKhVI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yFgNg_iKhVI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yFgNg_iKhVI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "How to build a one-person robotics business: education",
+                    "description": "About creating your own one-person business in robotics. A business where you\u2019re your own boss\u2014no rigid schedules, no office politics, and the freedom to work from anywhere in the world"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 4
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzbLQ30eJREVH8KrGxfCGSCw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "XEqFl8aEmcu0UvUFloY33VAmHCQ",
+            "id": "PLK0b4e05LnzYxgIav6-ZIz_o8fQ2kLj5l",
+            "snippet": {
+                "publishedAt": "2025-01-03T17:05:06.461338Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "Why Robotics Startups Fail",
+                "description": "The history of great robotics startups that ultimately failed, and the lessons we can learn from their failure",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XLcQJ6gNN2w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XLcQJ6gNN2w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XLcQJ6gNN2w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XLcQJ6gNN2w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XLcQJ6gNN2w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "Why Robotics Startups Fail",
+                    "description": "The history of great robotics startups that ultimately failed, and the lessons we can learn from their failure"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 2
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzYxgIav6-ZIz_o8fQ2kLj5l\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "FeNG7QyKXVRy2F1VnXvr4wHYzzI",
+            "id": "PLK0b4e05LnzYhVwZ2MMSImtwDDGdQGqRJ",
+            "snippet": {
+                "publishedAt": "2025-01-02T22:29:04.961622Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "AI Insights",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5Evig1N3hwY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5Evig1N3hwY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5Evig1N3hwY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5Evig1N3hwY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5Evig1N3hwY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "AI Insights",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 1
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzYhVwZ2MMSImtwDDGdQGqRJ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "tZBDjlDctI6mT-peBaEDpDZh5fQ",
+            "id": "PLK0b4e05LnzZFFnkMvb3O8zilh0J8VckB",
+            "snippet": {
+                "publishedAt": "2024-11-18T17:20:27.002163Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "Building Your First ROS2 Robot",
+                "description": "In this series, Rick Tellze, the CEO of The Construct, will teach you how to become a robotics expert\u2014from building robots to programming them! Whether you're just starting out or looking to improve, this series will set you on the right path to a successful career in robotics.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o8qYwTqQJ3Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o8qYwTqQJ3Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o8qYwTqQJ3Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/o8qYwTqQJ3Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/o8qYwTqQJ3Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "Building Your First ROS2 Robot",
+                    "description": "In this series, Rick Tellze, the CEO of The Construct, will teach you how to become a robotics expert\u2014from building robots to programming them! Whether you're just starting out or looking to improve, this series will set you on the right path to a successful career in robotics."
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 3
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzZFFnkMvb3O8zilh0J8VckB\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "HggrOTJyDoBf4lbeq2_ipV0Ii_s",
+            "id": "PLK0b4e05Lnzba0MwUNTrHGUgufycQaeox",
+            "snippet": {
+                "publishedAt": "2024-09-12T09:41:05.635947Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "Isaac Sim Tutorial Series",
+                "description": "In this video series, you'll learn how to use ROS2 from scratch with Isaac Sim.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RVMAyyVGAC4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RVMAyyVGAC4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RVMAyyVGAC4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RVMAyyVGAC4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RVMAyyVGAC4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "Isaac Sim Tutorial Series",
+                    "description": "In this video series, you'll learn how to use ROS2 from scratch with Isaac Sim."
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 1
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05Lnzba0MwUNTrHGUgufycQaeox\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "PBNW_CMMMZGAlPjRiVLU5nLp01g",
+            "id": "PLK0b4e05LnzaoPprZ8j0d7TFm3O__JU-U",
+            "snippet": {
+                "publishedAt": "2024-07-29T17:16:22.781001Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS2 Jazzy Learning Week 2024",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-roYHqI_Vc4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-roYHqI_Vc4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-roYHqI_Vc4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-roYHqI_Vc4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-roYHqI_Vc4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS2 Jazzy Learning Week 2024",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 5
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzaoPprZ8j0d7TFm3O__JU-U\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "II1n2RWm8bjhpRnyk09NF4NNwTc",
+            "id": "PLK0b4e05LnzY0wKUZ6b4PTMp7-ItSBgtY",
+            "snippet": {
+                "publishedAt": "2024-07-19T10:58:40.331387Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "TurtleBot4 Introduction Series",
+                "description": "In this video series, you will become familiar with the TurtleBot 4 and learn how to solve common issues.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xmK2I0D5sas/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xmK2I0D5sas/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xmK2I0D5sas/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xmK2I0D5sas/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xmK2I0D5sas/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "TurtleBot4 Introduction Series",
+                    "description": "In this video series, you will become familiar with the TurtleBot 4 and learn how to solve common issues."
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 2
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzY0wKUZ6b4PTMp7-ItSBgtY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "oNqX6yZfEY6RXqGBWQ5K8pbB0zQ",
+            "id": "PLK0b4e05LnzaoXXr-UMyOawWw--ebjSai",
+            "snippet": {
+                "publishedAt": "2024-07-09T14:12:27.034227Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "Robotics Developers Day 2024",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UVzb95gYgzQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UVzb95gYgzQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UVzb95gYgzQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UVzb95gYgzQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UVzb95gYgzQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "Robotics Developers Day 2024",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 16
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzaoXXr-UMyOawWw--ebjSai\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "bSCfLODUlm38KFFaUM9n6Zcm9G0",
+            "id": "PLK0b4e05LnzaMkAdwPvyG3oRz911VtpOX",
+            "snippet": {
+                "publishedAt": "2024-04-22T08:05:23.591542Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "Graduation Project Presentations of Robotics Developer Masterclass",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lnqdv-Siin8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lnqdv-Siin8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lnqdv-Siin8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lnqdv-Siin8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lnqdv-Siin8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "Graduation Project Presentations of Robotics Developer Masterclass",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 7
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzaMkAdwPvyG3oRz911VtpOX\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "cqe_52NzjrJc8gveGIgIyvb2l50",
+            "id": "PLK0b4e05Lnzb1dkBq3pJJizp3u1z4HFrN",
+            "snippet": {
+                "publishedAt": "2024-04-04T17:16:21.816484Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "Teach Robotics",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dCvc0VWnOmM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dCvc0VWnOmM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dCvc0VWnOmM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dCvc0VWnOmM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dCvc0VWnOmM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "Teach Robotics",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 2
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05Lnzb1dkBq3pJJizp3u1z4HFrN\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "V1iu7lqtio6y5q2Rj5qwSRw5zwI",
+            "id": "PLK0b4e05LnzZc0nBckEdA_w9Vrr14t0TY",
+            "snippet": {
+                "publishedAt": "2024-03-08T13:34:45.8133Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "Awesome robots to teach ROS",
+                "description": "A review of robots that teachers and researchers can use to teach ROS and robotics",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J4Z4M2_6amQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J4Z4M2_6amQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J4Z4M2_6amQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/J4Z4M2_6amQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/J4Z4M2_6amQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "Awesome robots to teach ROS",
+                    "description": "A review of robots that teachers and researchers can use to teach ROS and robotics"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 1
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzZc0nBckEdA_w9Vrr14t0TY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "9elTb0clgDP6_nWmPWpblQc9HHA",
+            "id": "PLK0b4e05LnzbPoRVC8sjZM4uqxSDwSQol",
+            "snippet": {
+                "publishedAt": "2024-02-20T12:23:38.894707Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "Robotics Developer Masterclass",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m9KpgTmEQa8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m9KpgTmEQa8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m9KpgTmEQa8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m9KpgTmEQa8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/m9KpgTmEQa8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "Robotics Developer Masterclass",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 5
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzbPoRVC8sjZM4uqxSDwSQol\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "LS1W3VrJNNrFjtGNTOazel5oiFU",
+            "id": "PLK0b4e05LnzYBPjL8iiAFbQVKwSRWL8PN",
+            "snippet": {
+                "publishedAt": "2023-07-11T11:03:35.661284Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS Developers Day 2023",
+                "description": "The 6th edition of the most practical ROS conference",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sDt0XisKXV8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sDt0XisKXV8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sDt0XisKXV8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sDt0XisKXV8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sDt0XisKXV8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS Developers Day 2023",
+                    "description": "The 6th edition of the most practical ROS conference"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 14
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzYBPjL8iiAFbQVKwSRWL8PN\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "7j7sxVglAHsa0PwMpxN2_Tu7JNA",
+            "id": "PLK0b4e05LnzYy6fc_ovQA-N77rvYVCEIl",
+            "snippet": {
+                "publishedAt": "2023-06-27T12:36:43.464659Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS2 Learning Week 2023",
+                "description": "Join the ROS2 Learning Week 2023! (June 26th \u2013 30th, 2023)\nThis is a week of free, live, and hands-on learning to master the basics of ROS2. Throughout the week, you will embark on an interactive journey, building a strong foundation in ROS2.\n\nWhat to expect:\n\ud83c\udd93 FREE Access\nParticipate in this ROS2 learning week at absolutely no cost.\n\ud83c\udfa5 Live Classes:\nEngage in live classes led by experienced ROS instructor \u2013 Alberto Ezquerro, who will guide you through each step of your ROS2 learning journey. Interact, ask questions, and learn in real-time.\n\ud83d\udda5\ufe0f Hands-on Practice:\nExperience the thrill of working with simulated robots on The Construct throughout the entire week. No need to worry about installations or hardware limitations \u2013 dive right into the action.\n\ud83c\udf93 No Prior Knowledge Required:\nEven if you have zero knowledge of ROS1, Linux, or Python, fear not! This learning week is designed for 100% ROS2 beginners.\n\ud83d\ude4c Be an Active Practitioner:\nThis isn\u2019t a passive listening experience. Get ready to learn by doing! Come with an open mind, an eagerness to learn, and a commitment to actively participate in practical exercises.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d4dHYbdkppM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d4dHYbdkppM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d4dHYbdkppM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/d4dHYbdkppM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/d4dHYbdkppM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS2 Learning Week 2023",
+                    "description": "Join the ROS2 Learning Week 2023! (June 26th \u2013 30th, 2023)\nThis is a week of free, live, and hands-on learning to master the basics of ROS2. Throughout the week, you will embark on an interactive journey, building a strong foundation in ROS2.\n\nWhat to expect:\n\ud83c\udd93 FREE Access\nParticipate in this ROS2 learning week at absolutely no cost.\n\ud83c\udfa5 Live Classes:\nEngage in live classes led by experienced ROS instructor \u2013 Alberto Ezquerro, who will guide you through each step of your ROS2 learning journey. Interact, ask questions, and learn in real-time.\n\ud83d\udda5\ufe0f Hands-on Practice:\nExperience the thrill of working with simulated robots on The Construct throughout the entire week. No need to worry about installations or hardware limitations \u2013 dive right into the action.\n\ud83c\udf93 No Prior Knowledge Required:\nEven if you have zero knowledge of ROS1, Linux, or Python, fear not! This learning week is designed for 100% ROS2 beginners.\n\ud83d\ude4c Be an Active Practitioner:\nThis isn\u2019t a passive listening experience. Get ready to learn by doing! Come with an open mind, an eagerness to learn, and a commitment to actively participate in practical exercises."
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 1
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzYy6fc_ovQA-N77rvYVCEIl\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "7u-CgvZkB-Vj2XGNAGKnNCuDios",
+            "id": "PLK0b4e05LnzZ0_A8Ta5AbXMHCKRRNTzVu",
+            "snippet": {
+                "publishedAt": "2023-01-26T18:20:54.212941Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "Robotics Insider Podcast",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Vk5vuLMJbDI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Vk5vuLMJbDI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Vk5vuLMJbDI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Vk5vuLMJbDI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Vk5vuLMJbDI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "Robotics Insider Podcast",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 3
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzZ0_A8Ta5AbXMHCKRRNTzVu\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "lBbdPxnPMgKKnOM7fZG_EhaQQOY",
+            "id": "PLK0b4e05LnzYeWgGyYi2PyUV4w8RBn3ZH",
+            "snippet": {
+                "publishedAt": "2023-01-09T13:56:01.141352Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "Online trainings",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sTsPwHpvhWc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sTsPwHpvhWc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sTsPwHpvhWc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sTsPwHpvhWc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "Online trainings",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 1
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzYeWgGyYi2PyUV4w8RBn3ZH\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "pTRph2G3sft5MApUBcAJx_QQo80",
+            "id": "PLK0b4e05LnzZr6wg-7T-tq8jJbbdReio8",
+            "snippet": {
+                "publishedAt": "2022-07-05T16:20:55.275503Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS2 in GameEngines",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XGWy5UoKgh4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XGWy5UoKgh4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XGWy5UoKgh4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XGWy5UoKgh4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS2 in GameEngines",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 4
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzZr6wg-7T-tq8jJbbdReio8\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "x4YcJeNGOdUD20tmMKbd6uXg-kM",
+            "id": "PLK0b4e05LnzaZ52xU5tXQkUrIzfylXmxO",
+            "snippet": {
+                "publishedAt": "2022-06-24T13:37:21.084677Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS Developers Day 2022",
+                "description": "The 5th edition of the most practical ROS conference",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6Vjj0TIQ4A8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6Vjj0TIQ4A8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6Vjj0TIQ4A8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6Vjj0TIQ4A8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS Developers Day 2022",
+                    "description": "The 5th edition of the most practical ROS conference"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 11
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzaZ52xU5tXQkUrIzfylXmxO\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "dTpL_W_DxNSB_S0pKBSzAzUoT44",
+            "id": "PLK0b4e05LnzYQQVgfbNNGP1XC14cOE56Y",
+            "snippet": {
+                "publishedAt": "2022-03-11T14:49:18.395865Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS2 How-to",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_vR9zdv1mhk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_vR9zdv1mhk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_vR9zdv1mhk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_vR9zdv1mhk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_vR9zdv1mhk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS2 How-to",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 12
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzYQQVgfbNNGP1XC14cOE56Y\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "CXfP6x9YkGpI2rf7Rlz15e6EWEI",
+            "id": "PLK0b4e05LnzYWK6a671oMqnOTuzlDfTOf",
+            "snippet": {
+                "publishedAt": "2022-03-01T13:14:27.899871Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS2 Concepts in Practice",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9pj10TDc0tg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9pj10TDc0tg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9pj10TDc0tg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9pj10TDc0tg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9pj10TDc0tg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS2 Concepts in Practice",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 6
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzYWK6a671oMqnOTuzlDfTOf\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "ehddGB8GACK89OkPYSA816v-zrw",
+            "id": "PLK0b4e05LnzYJcoOthPtZVlNrflhHI_dX",
+            "snippet": {
+                "publishedAt": "2021-07-14T11:28:00.771923Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "ROS Developers Day 2021",
+                "description": "The 4th edition of the most practical ROS conference",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UrhYYHPK-HI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UrhYYHPK-HI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UrhYYHPK-HI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UrhYYHPK-HI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UrhYYHPK-HI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "ROS Developers Day 2021",
+                    "description": "The 4th edition of the most practical ROS conference"
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 12
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzYJcoOthPtZVlNrflhHI_dX\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "7ZC5-2h5WPMZ2n0s9MDDBLYb8ZM",
+            "id": "PLK0b4e05LnzbMKROVmM1IlYb8P9uZ3GlA",
+            "snippet": {
+                "publishedAt": "2021-05-24T18:12:25.566391Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "Basic ROS2 Learning Week",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LUL_1xh3R4M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LUL_1xh3R4M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LUL_1xh3R4M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LUL_1xh3R4M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LUL_1xh3R4M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "Basic ROS2 Learning Week",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 5
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzbMKROVmM1IlYb8P9uZ3GlA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "t68j9al-pKU1LnlPgfd6wPnLQSQ",
+            "id": "PLK0b4e05LnzZ3NC9F-rsvO9WgYy0S2HPM",
+            "snippet": {
+                "publishedAt": "2021-03-11T17:57:49.682212Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "Jetbot-Examples",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZdINyfTpRwc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZdINyfTpRwc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZdINyfTpRwc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "Jetbot-Examples",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 1
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzZ3NC9F-rsvO9WgYy0S2HPM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Ra5tVFnlHHFpbLAPlwh8Vt3GlBk",
+            "id": "PLK0b4e05LnzbM3PuMUTQHPkwD2n4zPhB6",
+            "snippet": {
+                "publishedAt": "2021-01-01T15:41:34.236342Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "The Basics of Robotics Theory",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FBd9FSf8CZU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FBd9FSf8CZU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FBd9FSf8CZU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "The Basics of Robotics Theory",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 10
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzbM3PuMUTQHPkwD2n4zPhB6\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "qaBrODcS51KS-pylL9DQSWqkE_g",
+            "id": "PLK0b4e05LnzYAfZ_GCZw5S-tpQSynP-fC",
+            "snippet": {
+                "publishedAt": "2021-01-01T15:39:47.570316Z",
+                "channelId": "UCt6Lag-vv25fTX3e11mVY1Q",
+                "title": "Exploring ROS2 using a 2 wheeled robot",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cxOgLiLA-aI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cxOgLiLA-aI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cxOgLiLA-aI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cxOgLiLA-aI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cxOgLiLA-aI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "The Construct Robotics Institute",
+                "localized": {
+                    "title": "Exploring ROS2 using a 2 wheeled robot",
+                    "description": ""
+                }
+            },
+            "status": {
+                "privacyStatus": "public"
+            },
+            "contentDetails": {
+                "itemCount": 4
+            },
+            "player": {
+                "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLK0b4e05LnzYAfZ_GCZw5S-tpQSynP-fC\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            }
+        }
+    ]
+}
