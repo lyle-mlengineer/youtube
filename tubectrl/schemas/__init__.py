@@ -4,3 +4,4 @@ from .request_optional_parameters import OptionalParameters
 from .request_part import Part
 from .video import VideoFilter, VideoOptionalParameters, VideoPart
 from .youtube_request import YouTubeRequest
+from .caption import CaptionPart, CaptionFilter, CaptionOptionalParameters

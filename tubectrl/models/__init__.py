@@ -24,3 +24,6 @@ from .video_content_details import VideoContentDetails
 from .video_list_response import VideoListResponse
 from .video_snippet import VideoSnippet
 from .video_status import Status, VideoStatus
+from .caption import Caption
+from .caption_metadata import CaptionMetadata, CaptionMetadataSnippet
+from .caption_metadata_list_response import CaptionMetadataListResponse

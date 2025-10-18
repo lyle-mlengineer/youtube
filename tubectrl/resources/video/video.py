@@ -4,7 +4,7 @@ from ...exceptions import VideoNotFoundException
 from ...models import Video
 from ...schemas import VideoFilter, VideoOptionalParameters, VideoPart, YouTubeRequest
 from ..utils import create_request_dict
-from .parsers import parse_video, parse_video_list
+from .parsers import parse_video, parse_video_list 
 
 
 class YouTubeVideoResource:

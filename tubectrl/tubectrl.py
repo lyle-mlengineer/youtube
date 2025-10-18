@@ -7,8 +7,10 @@ from gverify.exceptions import InvalidSecretsFileException
 from pydantic import BaseModel
 
 from .exceptions import InvalidSecretsFileError, MissingClientSecretsFile
-from .models import Video
-from .resources import YouTubePlaylistItemResource, YouTubePlaylistResource, YouTubeVideoResource
+from .models import Video, Caption
+from .resources import (
+    YouTubePlaylistItemResource, YouTubePlaylistResource, YouTubeVideoResource, YouTubeCaptionResource
+)
 
 
 class YouTube(BaseModel):
@@ -149,3 +151,21 @@ class YouTube(BaseModel):
         return playlist_item.get_playlist_items_iterator(
             max_results=max_results, playlist_id=playlist_id
         )
+    
+    def list_captions(self, video_id: str) -> list[Caption]:
+        """List captions for a given video id."""
+        caption_resource: YouTubeCaptionResource = YouTubeCaptionResource(
+            youtube_client=self.youtube_client
+        )
+        captions: list[Caption] = caption_resource.list_captions(video_id=video_id)
+        return captions
+    
+    def download_caption(self, caption_id: str, tfmt: str = 'srt') -> str:
+        """Download caption by caption id."""
+        caption_resource: YouTubeCaptionResource = YouTubeCaptionResource(
+            youtube_client=self.youtube_client
+        )
+        caption_content: str = caption_resource.download_caption(caption_id=caption_id, tfmt=tfmt)
+        return caption_content
+    
+
